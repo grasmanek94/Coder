@@ -1,0 +1,33 @@
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\bin\Release\coder.exe.config
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\bin\Release\coder.exe
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\bin\Release\coder.pdb
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\bin\Release\coder.xml
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Release\coder.Form1.resources
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Release\coder.Resources.resources
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Release\coder.exe
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Release\coder.xml
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Release\coder.pdb
+C:\Users\Rafal\Desktop\coder1.0\coder\bin\Release\coder.exe.config
+C:\Users\Rafal\Desktop\coder1.0\coder\bin\Release\coder.exe
+C:\Users\Rafal\Desktop\coder1.0\coder\bin\Release\coder.pdb
+C:\Users\Rafal\Desktop\coder1.0\coder\bin\Release\coder.xml
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Release\coder.Form1.resources
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Release\coder.Resources.resources
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Release\coder.vbproj.GenerateResource.Cache
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Release\coder.exe
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Release\coder.xml
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Release\coder.pdb
+C:\Users\Rafal\Desktop\coder1.1\coder\bin\Release\coder.exe.config
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Release\coder.exe
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Release\coder.xml
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Release\coder.pdb
+C:\Users\Rafal\Desktop\coder1.1\coder\bin\Release\coder.exe
+C:\Users\Rafal\Desktop\coder1.1\coder\bin\Release\coder.pdb
+C:\Users\Rafal\Desktop\coder1.1\coder\bin\Release\coder.xml
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Release\coder.vbprojResolveAssemblyReference.cache
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Release\coder.Form1.resources
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Release\coder.Resources.resources
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Release\coder.vbproj.GenerateResource.Cache

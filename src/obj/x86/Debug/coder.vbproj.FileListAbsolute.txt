@@ -1,0 +1,51 @@
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\bin\Debug\coder.exe
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\bin\Debug\coder.pdb
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\bin\Debug\coder.xml
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\obj\x86\Debug\coder.Form1.resources
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\obj\x86\Debug\coder.Resources.resources
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\obj\x86\Debug\coder.exe
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\obj\x86\Debug\coder.xml
+C:\Users\Rafal\AppData\Local\Temporary Projects\coder\obj\x86\Debug\coder.pdb
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\coder.exe
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\coder.xml
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\coder.pdb
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\bin\Debug\coder.exe.config
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\bin\Debug\coder.exe
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\bin\Debug\coder.pdb
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\bin\Debug\coder.xml
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\coder.Form1.resources
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\coder.Resources.resources
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafal\documents\visual studio 2010\Projects\coder\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rafal\Desktop\coder\bin\Debug\coder.exe.config
+C:\Users\Rafal\Desktop\coder\obj\x86\Debug\coder.exe
+C:\Users\Rafal\Desktop\coder\obj\x86\Debug\coder.xml
+C:\Users\Rafal\Desktop\coder\obj\x86\Debug\coder.pdb
+C:\Users\Rafal\Desktop\coder1.0\coder\bin\Debug\coder.exe.config
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Debug\coder.exe
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Debug\coder.xml
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Debug\coder.pdb
+C:\Users\Rafal\Desktop\coder1.0\coder\bin\Debug\coder.exe
+C:\Users\Rafal\Desktop\coder1.0\coder\bin\Debug\coder.pdb
+C:\Users\Rafal\Desktop\coder1.0\coder\bin\Debug\coder.xml
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Debug\coder.vbprojResolveAssemblyReference.cache
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Debug\coder.Form1.resources
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Debug\coder.Resources.resources
+C:\Users\Rafal\Desktop\coder1.0\coder\obj\x86\Debug\coder.vbproj.GenerateResource.Cache
+C:\Users\Rafal\Desktop\coder1.1\coder\bin\Debug\coder.exe.config
+C:\Users\Rafal\Desktop\coder1.1\coder\bin\Debug\coder.exe
+C:\Users\Rafal\Desktop\coder1.1\coder\bin\Debug\coder.pdb
+C:\Users\Rafal\Desktop\coder1.1\coder\bin\Debug\coder.xml
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Debug\coder.vbprojResolveAssemblyReference.cache
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Debug\coder.Form1.resources
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Debug\coder.Resources.resources
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Debug\coder.vbproj.GenerateResource.Cache
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Debug\coder.exe
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Debug\coder.xml
+C:\Users\Rafal\Desktop\coder1.1\coder\obj\x86\Debug\coder.pdb

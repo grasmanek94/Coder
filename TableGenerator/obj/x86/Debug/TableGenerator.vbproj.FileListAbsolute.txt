@@ -1,0 +1,12 @@
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\bin\Debug\TableGenerator.exe.config
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\bin\Debug\TableGenerator.exe
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\bin\Debug\TableGenerator.pdb
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\bin\Debug\TableGenerator.xml
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\obj\x86\Debug\TableGenerator.Form1.resources
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\obj\x86\Debug\TableGenerator.Resources.resources
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\obj\x86\Debug\TableGenerator.exe
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\obj\x86\Debug\TableGenerator.xml
+C:\Users\Rafal\documents\visual studio 2010\Projects\TableGenerator\obj\x86\Debug\TableGenerator.pdb
